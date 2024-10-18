@@ -31,5 +31,5 @@ In this project, I built a deep learning model to predict stock prices for Faceb
 - _Treasurer of LDKP 2024_ : Managing the financial aspects of LDKP 2024 (Leadership Training Event), including budgeting, expense tracking.
 - _Mentor of Sponsorship Division, HILET 2024_ : Guiding the team in securing sponsorship funds and offering strategies for effective sponsor communication.
 
-- ## Certificate
+## Certificate
 - AWS Certified Cloud Practitioner
