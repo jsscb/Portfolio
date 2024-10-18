@@ -12,7 +12,7 @@
 - Assisted in teaching, guiding students through practical applications and ensuring a deeper understanding of data science concepts.
 
 
-## Projects (churn, rps)
+## Projects
 ### Machine Learning - Churn Prediction
 [Project](https://github.com/jsscb/machine-learning)
 
