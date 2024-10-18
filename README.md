@@ -27,9 +27,12 @@ In this project, I built a deep learning model to predict stock prices for Faceb
 
 ## Organization Experience
 **HIMTI (Himpunan Teknik Informatika)** - _Manager of Sponsorship_ 
-- _Treasurer of TECHNO 2024_ : Managing the financial aspects of TECHNO 2024 (Welcoming Party Event), including budgeting, expense tracking, and securing sponsorships.
-- _Treasurer of LDKP 2024_ : Managing the financial aspects of LDKP 2024 (Leadership Training Event), including budgeting, expense tracking.
-- _Mentor of Sponsorship Division, HILET 2024_ : Guiding the team in securing sponsorship funds and offering strategies for effective sponsor communication.
+- _Treasurer of TECHNO 2024_ :
+  Managing the financial aspects of TECHNO 2024 (Welcoming Party Event), including budgeting, expense tracking, and securing sponsorships.
+- _Treasurer of LDKP 2024_ :
+  Managing the financial aspects of LDKP 2024 (Leadership Training Event), including budgeting, expense tracking.
+- _Mentor of Sponsorship Division, HILET 2024_ :
+  Guiding the team in securing sponsorship funds and offering strategies for effective sponsor communication.
 
 ## Certificate
 - AWS Certified Cloud Practitioner
