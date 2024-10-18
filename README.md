@@ -3,7 +3,7 @@
 #### Technical Skills: Python, R, C, SQL, AWS
 
 ## Education
-Data Science | BINUS University						       		
+- Data Science | BINUS University (_2022-2026_)			      		
 
 
 ## Work Experience
@@ -14,25 +14,22 @@ Data Science | BINUS University
 
 ## Projects (churn, rps)
 ### Machine Learning - Churn Prediction
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Project](https://github.com/jsscb/machine-learning)
 
 I built a classification model to predict customer churn by applying a robust preprocessing pipeline. The pipeline handled missing values, categorical encoding, and feature scaling to ensure data quality. I used both Random Forest and XGBoost for the modeling phase, tuning hyperparameters to optimize performance. Cross-validation was employed to ensure the model's robustness, and metrics like accuracy, precision, recall, and AUC were used to evaluate model performance.
 
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Deep Learning - Stock Prediction
+[Project](https://github.com/jsscb/deep-learning)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+In this project, I built a deep learning model to predict stock prices for Facebook and IBM. The model utilized historical stock data, including features like closing prices, volume, and technical indicators. I implemented a LSTM (Long Short-Term Memory) network to capture temporal dependencies in the data and improve prediction accuracy. The model was evaluated based on metrics like RMSE, MAE and MAPE, demonstrating its potential for forecasting stock trends.
 
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Organization Experience
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+*HIMTI (Himpunan Teknik Informatika)* - _Manager of Sponsorship_ 
+- _Treasurer of TECHNO 2024_ : Managing the financial aspects of TECHNO 2024 (Welcoming Party Event), including budgeting, expense tracking, and securing sponsorships.
+- _Treasurer of LDKP 2024_ : Managing the financial aspects of LDKP 2024 (Leadership Training Event), including budgeting, expense tracking.
+- 
 
 - ## Certificate
-- AWS
+- AWS Certified Cloud Practitioner
