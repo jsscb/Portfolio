@@ -12,13 +12,12 @@ Data Science | BINUS University
 - Assisted in teaching, guiding students through practical applications and ensuring a deeper understanding of data science concepts.
 
 
-## Projects (churn, rps, figma)
-### Data-Driven EEG Band Discovery with Decision Trees
+## Projects (churn, rps)
+### Machine Learning - Churn Prediction
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+I built a classification model to predict customer churn by applying a robust preprocessing pipeline. The pipeline handled missing values, categorical encoding, and feature scaling to ensure data quality. I used both Random Forest and XGBoost for the modeling phase, tuning hyperparameters to optimize performance. Cross-validation was employed to ensure the model's robustness, and metrics like accuracy, precision, recall, and AUC were used to evaluate model performance.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
