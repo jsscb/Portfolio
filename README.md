@@ -1,6 +1,6 @@
 # Data Scientist
 
-[LinkedIn Profile](www.linkedin.com/in/jessica-berliani)
+[LinkedIn Profile](http://linkedin.com/in/jessica-berliani)
 #### Technical Skills: Python, R, C, SQL, AWS
 
 ## Education
