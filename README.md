@@ -4,7 +4,8 @@
 #### Technical Skills: Python, R, C, SQL, AWS
 
 ## Education
-- Data Science | BINUS University (_2022 - 2026_)			      		
+---
+- Data Science       BINUS University (_2022 - 2026_)			      		
 
 
 ## Work Experience
