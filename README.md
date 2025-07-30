@@ -5,10 +5,11 @@
 
 ## Education
 ---
-- Data Science       BINUS University (_2022 - 2026_)			      		
+- Data Science     `|`     BINUS University (_2022 - 2026_)			      		
 
 
 ## Work Experience
+---
 **Data Science Module Developer @ Emmerich Education Center (_July 2024 - January 2025_)**
 - Developed comprehensive course materials for the data science course, covering key topics like machine learning, data wrangling, and statistical analysis.
 - Assisted in teaching, guiding students through practical applications and ensuring a deeper understanding of data science concepts.
@@ -20,6 +21,7 @@
 
 
 ## Projects
+---
 ### Machine Learning - Churn Prediction
 [Project](https://github.com/jsscb/machine-learning)
 
@@ -38,6 +40,7 @@ Built a text classification model using LLMs to categorize Indonesian news into 
 
 
 ## Organization Experience
+---
 **HIMTI (Himpunan Teknik Informatika)** - _Manager of Sponsorship_ 
 - **_Treasurer of TECHNO 2024_** :
   Managing the financial aspects of TECHNO 2024 (Welcoming Party Event), including budgeting, expense tracking, and securing sponsorships.
@@ -47,4 +50,5 @@ Built a text classification model using LLMs to categorize Indonesian news into 
   Guiding the team in securing sponsorship funds and offering strategies for effective sponsor communication.
 
 ## Certificate
+---
 - AWS Certified Cloud Practitioner
