@@ -6,8 +6,8 @@
 ## Education
 ---
 - Data Science     `|`     BINUS University (_2022 - 2026_)
-      		
 
+<br><br>
 
 ## Work Experience
 ---
@@ -20,7 +20,7 @@
 - Performed data cleaning and validation to ensure accuracy, consistency, and usability of datasets.
 - Contributed to the preparation of UAT documentation, facilitating user testing processes and incorporating feedback for system improvement.
 
-
+<br><br>
 
 ## Projects
 ---
@@ -40,7 +40,7 @@ In this project, I built a deep learning model to predict stock prices for Faceb
 
 Built a text classification model using LLMs to categorize Indonesian news into non-football sports or football-related categories. Football articles were further classified into four leagues: English League, Indonesian League, Spanish League, and Italian League. A total of 100 news articles from Kompas and Liputan6. Developed both single-stage (5-class) and two-stage classification models with hyperparameter tuning. Evaluated using accuracy and F1-score.
 
-
+<br><br>
 
 ## Organization Experience
 ---
@@ -52,7 +52,7 @@ Built a text classification model using LLMs to categorize Indonesian news into 
 - **_Mentor of Sponsorship Division, HILET 2024_** :
   Guiding the team in securing sponsorship funds and offering strategies for effective sponsor communication.
 
-
+<br><br>
 
 ## Certificate
 ---
